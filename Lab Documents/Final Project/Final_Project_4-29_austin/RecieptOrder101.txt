@@ -1,0 +1,19 @@
+Welcome to Scotty Pippen's Burgers
+
+----------------------------
+
+Sun Apr 29 23:27:48 CDT 2018
+
+Large Fry            1.49
+
+Medium Fry           1.35
+
+Fruit                1.19
+
+
+Subtotal            4.03 
+Tax                 0.28 
+Total               4.31 
+----------------------------
+
+Order number 101  

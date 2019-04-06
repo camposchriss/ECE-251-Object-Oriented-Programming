@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Final_Project_GUI.jnlp">
+  <information>
+    <title>Final_Project_GUI</title>
+    <vendor>dkend</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Final_Project_GUI.jar" size="2366" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Final_Project_GUI" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="final_project_gui.Final_Project_GUI"  name="Final_Project_GUI" />
+  <update check="always"/>
+</jnlp>

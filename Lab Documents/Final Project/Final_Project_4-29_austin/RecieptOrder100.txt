@@ -1,0 +1,19 @@
+Welcome to Scotty Pippen's Burgers
+
+----------------------------
+
+Mon Apr 30 18:24:43 CDT 2018
+
+Small Drink          1.34
+
+Small Fry            1.28
+
+Burger               3.49
+
+
+Subtotal            6.11 
+Tax                 0.43 
+Total               6.54 
+----------------------------
+
+Order number 100  

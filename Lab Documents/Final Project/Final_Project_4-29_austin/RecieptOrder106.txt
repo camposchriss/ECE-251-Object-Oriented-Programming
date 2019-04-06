@@ -1,0 +1,13 @@
+Welcome to Scotty Pippen's Burgers
+
+----------------------------
+
+Sun Apr 29 23:26:57 CDT 2018
+
+
+Subtotal            0.00 
+Tax                 0.00 
+Total               0.00 
+----------------------------
+
+Order number 106  

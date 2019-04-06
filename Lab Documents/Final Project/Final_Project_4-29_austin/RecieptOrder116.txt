@@ -1,0 +1,13 @@
+Welcome to Scotty Pippen's Burgers
+----------------------------
+Thu Apr 26 17:19:06 CDT 2018
+Small Fry       1.28
+Small Hashbrown   1.35
+Burger          3.49
+Medium Drink    1.89
+               Subtotal  8.01 
+                    Tax  0.56 
+                  Total  8.57 
+----------------------------
+
+Order number 116  
